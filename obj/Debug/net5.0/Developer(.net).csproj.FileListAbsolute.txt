@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Developer(.net)\bin\Debug\net5.0\Developer(.net).exe
+C:\xampp\htdocs\Developer(.net)\bin\Debug\net5.0\Developer(.net).deps.json
+C:\xampp\htdocs\Developer(.net)\bin\Debug\net5.0\Developer(.net).runtimeconfig.json
+C:\xampp\htdocs\Developer(.net)\bin\Debug\net5.0\Developer(.net).runtimeconfig.dev.json
+C:\xampp\htdocs\Developer(.net)\bin\Debug\net5.0\Developer(.net).dll
+C:\xampp\htdocs\Developer(.net)\bin\Debug\net5.0\ref\Developer(.net).dll
+C:\xampp\htdocs\Developer(.net)\bin\Debug\net5.0\Developer(.net).pdb
+C:\xampp\htdocs\Developer(.net)\obj\Debug\net5.0\Developer(.net).csproj.AssemblyReference.cache
+C:\xampp\htdocs\Developer(.net)\obj\Debug\net5.0\Developer(.net).GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Developer(.net)\obj\Debug\net5.0\Developer(.net).AssemblyInfoInputs.cache
+C:\xampp\htdocs\Developer(.net)\obj\Debug\net5.0\Developer(.net).AssemblyInfo.cs
+C:\xampp\htdocs\Developer(.net)\obj\Debug\net5.0\Developer(.net).csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Developer(.net)\obj\Debug\net5.0\Developer(.net).dll
+C:\xampp\htdocs\Developer(.net)\obj\Debug\net5.0\ref\Developer(.net).dll
+C:\xampp\htdocs\Developer(.net)\obj\Debug\net5.0\Developer(.net).pdb
+C:\xampp\htdocs\Developer(.net)\obj\Debug\net5.0\Developer(.net).genruntimeconfig.cache
